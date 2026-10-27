@@ -1,6 +1,6 @@
 # Privacy Policy – Tap Out: Arrow Puzzle
 
-**Effective date:** 25 October 2026
+**Effective date:** 27 October 2026
 **Developer:** Little Workshop Studio ("we", "us")
 **Contact:** joviulhag@gmail.com
 
@@ -75,9 +75,13 @@ We use **Firebase Analytics** to understand how the game is played and **Firebas
 See the [Firebase privacy information](https://firebase.google.com/support/privacy).
 
 ### 5. In-app purchases (Google Play Billing)
-The **Remove ads** purchase is processed entirely by Google Play. We never see your payment card or billing details. The App receives only a purchase confirmation, which it uses to unlock the feature and to let you **Restore purchases**.
+The App sells two kinds of in-app products through Google Play:
+- **Remove ads**, a one-time purchase that turns off banner and full-screen ads
+- **Coin packs** (1,000, 3,000 and 5,000 coins), which can be bought more than once
 
-Coins, hint packs and themes are bought with in-game coins only; no real money is involved.
+All payments are processed entirely by Google Play. We never see your payment card or billing details. The App receives only a purchase confirmation (product ID and purchase token), which it uses to unlock Remove ads, to add the coins to your balance and to let you **Restore purchases**. A coin pack's purchase token is kept on your device only until the coins have been added, so they are not lost if the App closes during a purchase.
+
+Hint packs and themes are bought with in-game coins. Coins bought with real money are part of your local progress (and of your cloud save if you sign in to Google Play Games); they are not tied to your Google account otherwise, so coins of a player who never signs in are lost when the App is uninstalled.
 
 ### 6. How we use information
 We use the information above only to:
@@ -179,9 +183,13 @@ Kami menggunakan **Firebase Analytics** untuk memahami cara permainan dimainkan 
 Lihat [informasi privasi Firebase](https://firebase.google.com/support/privacy).
 
 ### 5. Pembelian dalam aplikasi (Google Play Billing)
-Pembelian **Hapus iklan** diproses sepenuhnya oleh Google Play. Kami tidak pernah melihat kartu atau data pembayaran Anda. Aplikasi hanya menerima konfirmasi pembelian, yang dipakai untuk membuka fitur tersebut dan untuk **Pulihkan pembelian**.
+Aplikasi menjual dua jenis produk dalam aplikasi melalui Google Play:
+- **Hapus iklan**, pembelian sekali yang menonaktifkan iklan banner dan layar penuh
+- **Paket koin** (1.000, 3.000, dan 5.000 koin), yang bisa dibeli berulang kali
 
-Koin, paket hint, dan tema dibeli dengan koin dalam game saja, tanpa uang sungguhan.
+Semua pembayaran diproses sepenuhnya oleh Google Play. Kami tidak pernah melihat kartu atau data pembayaran Anda. Aplikasi hanya menerima konfirmasi pembelian (ID produk dan token pembelian), yang dipakai untuk membuka Hapus iklan, menambahkan koin ke saldo Anda, dan untuk **Pulihkan pembelian**. Token pembelian paket koin hanya disimpan di perangkat sampai koinnya ditambahkan, agar koin tidak hilang jika Aplikasi tertutup saat pembelian.
+
+Paket hint dan tema dibeli dengan koin dalam game. Koin yang dibeli dengan uang sungguhan menjadi bagian dari progres lokal Anda (dan simpanan cloud jika Anda masuk ke Google Play Games); selain itu koin tidak terikat ke akun Google Anda, sehingga koin milik pemain yang tidak pernah masuk akan hilang saat Aplikasi di-uninstall.
 
 ### 6. Penggunaan informasi
 Informasi di atas hanya kami gunakan untuk:
